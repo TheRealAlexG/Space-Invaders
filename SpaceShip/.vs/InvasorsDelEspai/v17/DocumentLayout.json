@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\InvasorsDelEspai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|c:\\users\\adria\\invasorsdelespai\\assets\\script\\fonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\fonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|c:\\users\\adria\\invasorsdelespai\\assets\\script\\gamecontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamecontrollerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|C:\\Users\\adria\\InvasorsDelEspai\\assets\\script\\asteroidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\asteroidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|C:\\Users\\adria\\InvasorsDelEspai\\assets\\script\\destrucciopercontacte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\destrucciopercontacte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|C:\\Users\\adria\\InvasorsDelEspai\\assets\\script\\destrueixtotelquesurti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\destrueixtotelquesurti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|C:\\Users\\adria\\InvasorsDelEspai\\assets\\script\\mou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|C:\\Users\\adria\\InvasorsDelEspai\\assets\\script\\rotacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\rotacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|C:\\Users\\adria\\InvasorsDelEspai\\assets\\script\\controladordeljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7C0CBF-212D-CB9D-07C5-1C8001A934A1}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controladordeljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FonsController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\FonsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\FonsController.cs",
+              "ToolTip": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\FonsController.cs",
+              "RelativeToolTip": "Assets\\Script\\FonsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:37:25.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsteroideController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\AsteroideController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AsteroideController.cs",
+              "ToolTip": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\AsteroideController.cs",
+              "RelativeToolTip": "Assets\\Script\\AsteroideController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:33:11.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameControllerScript.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\GameControllerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameControllerScript.cs",
+              "ToolTip": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\GameControllerScript.cs",
+              "RelativeToolTip": "Assets\\Script\\GameControllerScript.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:30:12.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestruccioPerContacte.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\DestruccioPerContacte.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DestruccioPerContacte.cs",
+              "ToolTip": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\DestruccioPerContacte.cs",
+              "RelativeToolTip": "Assets\\Script\\DestruccioPerContacte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:51:39.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rotacio.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\Rotacio.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Rotacio.cs",
+              "ToolTip": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\Rotacio.cs",
+              "RelativeToolTip": "Assets\\Script\\Rotacio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:35:28.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DestrueixTotElQueSurti.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\DestrueixTotElQueSurti.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DestrueixTotElQueSurti.cs",
+              "ToolTip": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\DestrueixTotElQueSurti.cs",
+              "RelativeToolTip": "Assets\\Script\\DestrueixTotElQueSurti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:24:58.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mou.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\Mou.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Mou.cs",
+              "ToolTip": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\Mou.cs",
+              "RelativeToolTip": "Assets\\Script\\Mou.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:44:05.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControladorDelJugador.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\ControladorDelJugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ControladorDelJugador.cs",
+              "ToolTip": "C:\\Users\\adria\\InvasorsDelEspai\\Assets\\Script\\ControladorDelJugador.cs",
+              "RelativeToolTip": "Assets\\Script\\ControladorDelJugador.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:42:10.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
